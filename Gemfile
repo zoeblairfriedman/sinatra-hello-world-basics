@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
-
+gem 'bundler', '2.2.11'
 gem 'sinatra'
     gem 'rake'
     gem 'thin'
